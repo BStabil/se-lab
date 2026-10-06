@@ -28,6 +28,7 @@ public class TorpedoStore {
     }
   }
 
+  //it does what is says
   public boolean fire(int numberOfTorpedos){
     
     if(numberOfTorpedos < 1 || numberOfTorpedos > this.torpedoCount){
