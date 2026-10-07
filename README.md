@@ -1,5 +1,4 @@
-[![Java CI with Maven]](https://github.com/ftsrg-softeng/labs/wiki/images/lab3/badges.png)
-
+[![Java CI with Maven](https://github.com/BStabil/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/BStabil/se-lab/actions/workflows/maven.yml)
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
